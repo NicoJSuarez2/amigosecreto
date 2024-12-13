@@ -26,4 +26,3 @@ def sorteos():
     # Eliminar el nombre seleccionado de la lista
     nombres.remove(nombre_seleccionado)
     return {"santa_secreto": nombre_seleccionado}
-
